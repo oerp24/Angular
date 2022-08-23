@@ -1,0 +1,20 @@
+.side-bar{
+    float: left;
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.main-list{
+    list-style: none;
+    text-align: center;
+}
+.option{
+    background-color: #ff6600;
+    padding:5px 10px;
+    margin: 0px 0px 10px 0px;
+}
+.redirect{
+    color: white;
+    font-weight: bold;
+}
